@@ -1,0 +1,36 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+
+# Compiled files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE or editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Flask instance folder
+instance/
